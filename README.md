@@ -1,4 +1,4 @@
 ### Hi, I'm Syed Mushfik Hasan Tahsin 👋
 <hr>
-<h4><i>Cyber Security Enthusiat & Bug Bounty Hunter</i><br><img src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif"></h4>
+<hp><i>Cyber Security Enthusiat & Bug Bounty Hunter</i><br><img src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif" width=50px height=60px></hp>
 
